@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.22.15",
     "eslint": "^8.51.0",
     "eslint-plugin-react": "^7.33.2",
     "husky": "^8.0.3",
